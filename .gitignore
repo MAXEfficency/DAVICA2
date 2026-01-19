@@ -1,0 +1,30 @@
+# --- Python & Jupyter Defaults ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Virtual Environments (If you use them) ---
+env/
+venv/
+.env
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Settings (Optional but recommended) ---
+.vscode/
+.idea/
+
+# --- Project Outputs ---
+# Ignore the final zip file so you don't commit it by accident
+*.zip
+
+# --- Data Files (Optional) ---
+# Since you are collaborating, you probably WANT to commit the small CSV/Excel files.
+# But if any file gets larger than 100MB, GitHub will block it.
+# Uncomment the lines below ONLY if you want to block specific data files:
+
+# *.xlsx
+# *.csv

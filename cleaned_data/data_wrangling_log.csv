@@ -1,0 +1,16 @@
+Field Name,Records Affected,Action Taken
+All Columns (All Datasets),All,"Removed leading/trailing whitespace, standardized column names to uppercase"
+STUDENT ID (All Datasets),307 + 522 + 511,"Trimmed whitespace, validated format consistency across datasets"
+CLASS (Extracted from STUDENT ID),307 + 522 + 511,Extracted 3-digit CLASS code from STUDENT ID format (XXXX-CCC/III)
+"PERIOD (Results, Survey)",522 + 511,"Trimmed whitespace, ensured consistent formatting"
+NATIONALITY columns (Profiles),307,"Created NATIONALITY_STATUS column from SG CITIZEN, SG PR, FOREIGNER flags"
+Date columns (Profiles),307,"Converted to datetime format, created AGE and COURSE_DURATION_DAYS"
+COMMENCEMENT DATE (Profiles),5,Filled missing dates using mode from same CLASS code
+COMPLETION DATE (Profiles),5,Filled missing dates using mode from same CLASS code
+COURSE_DURATION_DAYS (Profiles),274,Calculated/recalculated after filling commence and completion dates
+GPA (Results),522,"Validated range (0-5), checked for nulls and outliers"
+ATTENDANCE (Results),522,"Validated range (0-100), checked for nulls and invalid values"
+Survey responses (Survey),511,"Validated response scales, checked for nulls and outliers"
+Duplicate records (Results),33,"Removed duplicate STUDENT ID + PERIOD combinations, kept first"
+Duplicate records (Survey),32,"Removed duplicate STUDENT ID + PERIOD combinations, kept first"
+GENDER (Profiles),0,"Filled missing values with ""Unknown"""

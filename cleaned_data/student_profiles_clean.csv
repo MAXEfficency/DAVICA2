@@ -1,0 +1,390 @@
+STUDENT ID,GENDER,SG CITIZEN,SG PR,FOREIGNER,COUNTRY OF OTHER NATIONALITY,DOB,HIGHEST QUALIFICATION,NAME OF QUALIFICATION AND INSTITUTION,DATE ATTAINED HIGHEST QUALIFICATION,DESIGNATION,COMMENCEMENT DATE,COMPLETION DATE,FULL-TIME OR PART-TIME,COURSE FUNDING,CLASS,NATIONALITY_STATUS,AGE,COURSE_DURATION_DAYS
+1101-009/001,F,N,N,Y,Malaysia,1981-09-13,Certificate,SPM,2018-08-01,Admin & HR Assistant,2022-04-18,2023-09-17,Part-Time,Individual,1101-009,Foreigner,44.4,517.0
+1101-009/002,F,Y,N,N,,1979-07-26,Certificate,"Certificate in Office Skills, ITE",2016-08-06,Admin Assistant,2022-04-18,2023-09-17,Part-Time,Individual-SFC,1101-009,SG Citizen,46.5,517.0
+1101-009/003,F,N,N,Y,India,1990-02-01,Degree,"Bachelor of Business Administration, University of Rajasthan, India",2015-08-08,-,2022-04-18,2023-09-17,Part-Time,Individual,1101-009,Foreigner,36.0,517.0
+1101-009/004,F,N,N,Y,Netherlands,1976-04-20,Diploma,"Office Management Diploma, NCOI Rotterdam, The Netherlands",2018-08-02,HR Support / Office Manager,2022-04-18,2023-09-17,Part-Time,Individual,1101-009,Foreigner,49.7,517.0
+1101-009/005,F,Y,N,N,,1983-11-25,Diploma,"Diploma in Business Admininstration, LCCI Level 3, Private Secretary's Diploma, LCCI",2015-08-06,"Executive, Administration",2022-04-18,2023-09-17,Part-Time,Sponsored,1101-009,SG Citizen,42.2,517.0
+1101-009/006,F,N,Y,N,Malaysia,1968-10-17,Certificate,"Lower Secondary Education, Malaysia",1995-07-05,Administrator,2022-04-18,2023-09-17,Part-Time,Individual - SFC,1101-009,SG PR,57.3,517.0
+1101-009/007,F,Y,N,N,,1980-06-29,Certificate,N' level,1997-07-07,Admin & Finance Executive,2022-04-18,2023-09-17,Part-Time,Sponsored,1101-009,SG Citizen,45.6,517.0
+1101-009/008,F,Y,N,N,,1976-05-25,Certificate,O' level,1995-07-08,Admin Assistant,2022-04-18,2024-03-18,Part-Time,Individual,1101-009,SG Citizen,49.7,700.0
+1101-009/009,F,Y,N,N,,1983-11-30,Certificate,N' Level,2000-07-05,Operation Executive,2022-04-18,2023-09-17,Part-Time,Sponsored,1101-009,SG Citizen,42.1,517.0
+1101-009/010,F,N,N,Y,Malaysia,1992-07-08,Certificate,SPM,2017-07-05,Clerk,2022-04-18,2023-09-17,Part-Time,Individual,1101-009,Foreigner,33.5,517.0
+1101-009/011,F,N,Y,N,Malaysia,1988-11-02,Degree,"Bahcelor of Management (Marketing), Universiti Teknologi Malaysia",2018-09-08,HR & Admin,2022-04-18,2023-09-17,Part-Time,Sponsored,1101-009,SG PR,37.2,517.0
+1101-010/001,M,Y,N,N,,1980-01-31,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",1999-09-11,Early Childhood Support Office,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1101-010,SG Citizen,46.0,516.0
+1101-010/002,F,Y,N,N,,1973-04-20,Certificate,O' level,1990-09-02,Office Manager,2022-10-19,2024-03-18,Part-Time,Sponsored,1101-010,SG Citizen,52.8,516.0
+1101-010/003,F,Y,N,N,,1991-03-09,Certificate,O' level,2013-09-03,Business Development Executive,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1101-010,SG Citizen,34.9,516.0
+1101-010/004,F,Y,N,N,,1990-06-17,Certificate,N' Level,2018-09-01,Human Resource Assistant,2022-10-19,2024-03-18,Part-Time,Sponsored,1101-010,SG Citizen,35.6,516.0
+1101-010/005,F,N,N,Y,Malaysia,1986-09-10,Certificate,SPM,2016-09-08,Admin Assistant,2022-10-19,2024-03-18,Part-Time,Sponsored - no SDF,1101-010,Foreigner,39.4,516.0
+1101-010/006,F,Y,N,N,,1997-08-03,Diploma,"Diploma in Business, Temasek Polytechnic",2016-09-12,Secretary,2022-10-19,2024-03-18,Part-Time,Individual,1101-010,SG Citizen,28.5,516.0
+1101-010/007,F,Y,N,N,,1970-08-02,Diploma,"Diploma in Business Administration, PSB Academy",2016-09-02,Executive Assistant,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1101-010,SG Citizen,55.5,516.0
+1101-010/008,F,Y,N,N,,1973-03-08,Certificate,"Certificate in Office Skills, ITE",1999-09-01,Secretary,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1101-010,SG Citizen,52.9,516.0
+1101-010/009,F,Y,N,N,,1994-11-13,Diploma,"Advanced Diploma in Tourism, Hospitality and Event Management, MDIS",2016-09-01,Admin Assistant,2022-10-19,2024-03-18,Part-Time,Individual,1101-010,SG Citizen,31.2,516.0
+1101-010/010,F,Y,N,N,,1983-02-10,Diploma,"Diploma in Multimedia Software Engineering, Singapore Polytechnic",2003-09-09,Senior Assistant (Tenant Administration),2022-10-19,2024-03-18,Part-Time,Individual-SFC,1101-010,SG Citizen,42.9,516.0
+1101-010/011,F,Y,N,N,,1969-02-16,Certificate,"O' levels, Diploma in Business Management (distance learning), Glasgow, Dublin",2018-10-10,Admin Assistant,2022-10-19,2024-03-18,Part-Time,Sponsored,1101-010,SG Citizen,56.9,516.0
+1101-010/012,F,N,Y,N,Malaysia,1978-06-16,Certificate,"Certified Accounting Technicians (CATS), ACCA, SPM",2018-10-09,Senior HR Officer,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1101-010,SG PR,47.6,516.0
+1101-011/001,F,Y,N,N,,1973-04-30,Certificate,"Certified Accounting Technicians (CATS), ACCA, 'O' levels",1993-10-09,-,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,SG Citizen,52.7,519.0
+1101-011/002,M,Y,N,N,,1977-06-12,Certificate,"NTC 2, N Level, WPLN",2014-05-02,Senior Executive,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,SG Citizen,48.6,519.0
+1101-011/003,F,Y,N,N,,1976-04-27,Certificate,"O' level, 'N' Level",2016-05-08,-,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,SG Citizen,49.7,519.0
+1101-011/004,F,Y,N,N,,1985-02-05,Diploma,"Diploma in Mass Communication, MDIS",2020-05-07,Relationship and Marketing Executive,2023-04-16,2024-09-16,Part-Time,Individual - SFC,1101-011,SG Citizen,41.0,519.0
+1101-011/005,F,N,N,Y,Malaysia,1979-02-04,Certificate,SPM,2000-06-11,"Associate, Client Services",2023-04-16,2024-09-16,Part-Time,Individual - SFC,1101-011,Foreigner,47.0,519.0
+1101-011/006,F,Y,N,N,,1989-04-23,Diploma,"Diploma (Facilities & Events Management), NYP",2016-10-04,HR Administrator,2023-04-16,2024-09-16,Part-Time,Individual - SFC,1101-011,SG Citizen,36.7,519.0
+1101-011/007,F,N,N,Y,China,1992-01-21,Degree,"Bachelor of Public Administration, San Jose State University",2017-10-02,PR Executive,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,Foreigner,34.0,519.0
+1101-011/008,F,Y,N,N,,1993-12-05,Diploma,"Diploma in Environmental Science, Republic Polytechnic",2016-06-11,Admin & HR Executive,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,SG Citizen,32.1,519.0
+1101-011/009,F,Y,N,N,,1978-03-04,Certificate,"Certificate in Office Skills, ITE",2016-06-11,"Snr Associate, Client Services",2023-04-16,2024-09-16,Part-Time,Individual - SFC,1101-011,SG Citizen,47.9,519.0
+1101-011/010,F,Y,N,N,,1966-03-23,Certificate,"WSQ Higher Certificate in Human Resources, WPLN, Fundamentals Certificate in Early Childhood Care and Education",2005-06-02,Admin Officer,2023-04-16,2024-09-16,Part-Time,Individual,1101-011,SG Citizen,59.8,519.0
+1101-012/001,F,Y,N,N,,1988-12-04,Certificate,"Nitec in Service Skills (Office), ITE",2001-06-11,Admin Assistant,,,Part-Time,Sponsored - no SDF,1101-012,SG Citizen,37.1,
+1101-012/002,F,Y,N,N,,1991-11-27,Degree,"Bachelor Science (Facilities & Events Management), SUSS",2017-10-06,HR Administrator,,,Part-Time,Individual - SFC,1101-012,SG Citizen,34.1,
+1101-012/003,F,Y,N,N,,1985-04-23,Diploma,"Diploma in Procurement and Supply Management, SIPMM Academy",2016-10-08,Purchasing Executive,,,Part-Time,Individual - SFC,1101-012,SG Citizen,40.7,
+1101-012/004,F,N,Y,N,Malaysia,1975-03-15,Certificate,"Certificate in Payroll Administration, SHRI Academy, SPM",1998-10-08,HR Executive,,,Part-Time,Sponsored,1101-012,SG PR,50.9,
+1101-012/005,F,Y,N,N,,1975-07-09,Degree,"Bachelor of Science in Business & Mgt Studies, University of Bradford",2017-06-12,HR Executive,,,Part-Time,Individual - SFC,1101-012,SG Citizen,50.5,
+1101-012/006,F,Y,N,N,,1976-06-09,Degree,"Bachelor of Business (Advertising), Queensland University of Technology",1993-06-10,-,,,Part-Time,Individual - SFC,1101-012,SG Citizen,49.6,
+1101-012/007,F,Y,N,N,,1991-12-05,Diploma,"Diploma in Environmental Science, Republic Polytechnic",2016-06-09,-,,,Part-Time,Individual,1101-012,SG Citizen,34.1,
+1101-012/008,F,Y,N,N,,1983-07-19,Degree,"Bachelor of Arts in Accounting, University of Bedfordshire",2017-01-11,Accounts Executive,,,Part-Time,Individual,1101-012,SG Citizen,42.5,
+1101-012/009,F,Y,N,N,,1989-10-02,Degree,"Bachelor of Science (Business Management), University of Birmingham",2019-01-08,-,,,Part-Time,Individual - SFC,1101-012,SG Citizen,36.3,
+1101-012/010,F,Y,N,N,,1996-03-05,Certificate,N level,2017-01-09,Admin Executive,,,Part-Time,Sponsored,1101-012,SG Citizen,29.9,
+1101-012/011,F,Y,N,N,,1994-08-27,Diploma,"Diploma in Events Management, Kaplan",2018-02-11,HR Assistant,,,Part-Time,Sponsored,1101-012,SG Citizen,31.4,
+1102-001/001,F,N,N,Y,Malaysia,1991-09-13,Certificate,SPM,,Admin & HR Assistant,2022-04-18,2023-09-17,Part-Time,Individual,1102-001,Foreigner,34.4,517.0
+1102-001/002,F,Y,N,N,,1993-11-25,Diploma,"Diploma in Business Admininstration, LCCI Level 3, Private Secretary's Diploma, LCCI",,"Executive, Administration",2022-04-18,2023-09-17,Part-Time,Sponsored,1102-001,SG Citizen,32.2,517.0
+1102-001/003,F,N,Y,N,Malaysia,1970-10-17,Certificate,"Lower Secondary Education, Malaysia",1995-07-11,Administrator,2022-04-18,2023-09-17,Part-Time,Individual - SFC,1102-001,SG PR,55.3,517.0
+1102-001/005,F,Y,N,N,,1979-06-29,Certificate,N' level,,Admin & Finance Executive,2022-04-18,2023-09-17,Part-Time,Sponsored,1102-001,SG Citizen,46.6,517.0
+1102-001/006,F,Y,N,N,,1975-05-25,Certificate,O' level,,Admin Assistant,2022-04-18,2024-03-18,Part-Time,Individual,1102-001,SG Citizen,50.7,700.0
+1102-001/007,F,Y,N,N,,1982-11-30,Certificate,N' Level,,Operation Executive,2022-04-18,2023-09-17,Part-Time,Sponsored,1102-001,SG Citizen,43.1,517.0
+1102-001/008,F,N,N,Y,Malaysia,1995-07-08,Certificate,SPM,,Clerk,2022-04-18,2023-09-17,Part-Time,Individual,1102-001,Foreigner,30.5,517.0
+1102-001/009,M,Y,N,N,,1979-01-31,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",,Early Childhood Support Office,2022-04-18,2023-09-17,Part-Time,Individual - SFC,1102-001,SG Citizen,47.0,517.0
+1102-002/001,F,Y,N,N,,1990-03-09,Certificate,O' level,,Business Development Executive,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1102-002,SG Citizen,35.9,516.0
+1102-002/002,F,Y,N,N,,2000-06-17,Certificate,N' Level,,Human Resource Assistant,2022-10-19,2024-03-18,Part-Time,Sponsored,1102-002,SG Citizen,25.6,516.0
+1102-002/003,F,Y,N,N,,1984-01-04,Degree,"Bachelor of Arts and Social Science, NUS",2006-09-12,"Executive, Marketing",2022-10-19,2024-03-18,Part-Time,Individual,1102-002,SG Citizen,42.0,516.0
+1102-002/004,F,N,N,Y,Malaysia,1996-09-10,Certificate,SPM,,Admin Assistant,2022-10-19,2024-03-18,Part-Time,Sponsored - no SDF,1102-002,Foreigner,29.4,516.0
+1102-002/005,F,Y,N,N,,1995-08-03,Diploma,"Diploma in Business, Temasek Polytechnic",,Secretary,2022-10-19,2024-03-18,Part-Time,Individual,1102-002,SG Citizen,30.5,516.0
+1102-002/006,F,Y,N,N,,1987-08-02,Diploma,"Diploma in Business Administration, PSB Academy",2012-09-12,Executive Assistant,2022-10-19,2024-03-18,Part-Time,Individual - SFC,1102-002,SG Citizen,38.5,516.0
+1102-002/007,F,Y,N,N,,1990-11-13,Diploma,"Advanced Diploma in Tourism, MDIS",2019-09-10,Admin Assistant,2022-10-19,2024-03-18,Part-Time,Individual,1102-002,SG Citizen,35.2,516.0
+1102-003/001,F,Y,N,N,,1982-02-10,Diploma,"Diploma in Software Engineering, Singapore Polytechnic",,Software Developer,2023-04-16,2024-09-16,Part-Time,Individual-SFC,1102-003,SG Citizen,43.9,519.0
+1102-003/002,F,N,Y,N,China,1997-10-19,Diploma,"Diploma of Hospitality Management, Temasek Polytechnic",2016-10-11,Tour Guide,2023-04-16,2024-09-16,Part-Time,Sponsored,1102-003,SG PR,28.3,519.0
+1102-003/003,F,Y,N,N,,1974-04-30,Certificate,O' levels,,Business Development Executive,2023-04-16,2024-09-16,Part-Time,Individual,1102-003,SG Citizen,51.7,519.0
+1102-003/004,M,Y,N,N,,1979-06-12,Certificate,"NTC 2, N Level, WPLN",2010-05-12,Business co-ordinator,2023-04-16,2024-09-16,Part-Time,Individual,1102-003,SG Citizen,46.6,519.0
+1102-003/005,F,Y,N,N,,1994-02-05,Diploma,"Diploma in Marketing, MDIS",,Marketing Executive,2023-04-16,2024-09-16,Part-Time,Individual - SFC,1102-003,SG Citizen,32.0,519.0
+1102-003/006,F,Y,N,N,,1999-01-03,Certificate,N' level,,Secretary,2023-04-16,2024-09-16,Part-Time,Individual,1102-003,SG Citizen,27.0,519.0
+1102-003/007,F,Y,N,N,,1980-01-27,Diploma,"Diploma in Hotel Management, SHATEC",2019-02-01,Rooms Division Manager,2023-04-16,2024-09-16,Part-Time,Individual - SFC,1102-003,SG Citizen,46.0,519.0
+1102-004/001,F,Y,N,N,,2000-04-16,Diploma,"Diploma in Healthcare Administration, Republic Polytechnic",2022-02-04,"Accounting Associate, Southeast Asia",2024-04-13,2025-09-15,Part-Time,Sponsored,1102-004,SG Citizen,25.8,520.0
+1102-004/002,F,Y,N,N,,1983-06-18,Certificate,N level,2018-02-01,-,2024-04-13,2025-09-15,Part-Time,Individual - SFC,1102-004,SG Citizen,42.6,520.0
+1102-004/003,F,Y,N,N,,1975-01-06,Degree,"Bachelor of Science in Business, UOL",1995-02-12,Administrative Executive,2024-04-13,2025-09-15,Part-Time,Sponsored,1102-004,SG Citizen,51.0,520.0
+1102-004/004,F,Y,N,N,,2000-03-05,Certificate,N level,2017-01-03,Admin Executive,2024-04-13,2025-09-15,Part-Time,Sponsored,1102-004,SG Citizen,25.9,520.0
+1102-004/005,F,Y,N,N,,1996-08-27,Diploma,"Diploma in Events Management, Kaplan",2018-02-10,HR Assistant,2024-04-13,2025-09-15,Part-Time,Sponsored,1102-004,SG Citizen,29.4,520.0
+1102-004/006,F,Y,N,N,,1991-01-27,Diploma,"Diploma in Hotel Management, SHATEC",2012-02-04,Front Desk Manager,2024-04-13,2025-09-15,Part-Time,Individual - SFC,1102-004,SG Citizen,35.0,520.0
+1102-004/007,F,Y,N,N,,1998-06-18,Certificate,N level,2018-02-11,-,2024-04-13,2025-09-15,Part-Time,Individual - SFC,1102-004,SG Citizen,27.6,520.0
+1102-004/008,F,Y,N,N,,1974-01-06,Diploma,"Dipoma in Business, Ngee Ann Polytechnic",1994-02-02,Administrative Executive,2024-04-13,2025-09-15,Part-Time,Sponsored,1102-004,SG Citizen,52.0,520.0
+2101-107/001,F,N,Y,N,Malaysia,1984-07-08,Degree,"Bachelor of Science (HRD), Universiti Teknologi Malaysia",2016-04-04,Manager,2022-04-24,2022-09-23,Part Time,Indivodual,2101-107,SG PR,41.5,152.0
+2101-107/001,F,N,Y,N,Malaysia,1984-07-08,Degree,"Bachelor of Science (HRD), Universiti Teknologi Malaysia",2016-04-04,Manager,2022-04-24,2022-09-23,Part Time,Indivodual,2101-107,SG PR,41.5,152.0
+2101-107/002,F,N,Y,N,China,1987-09-08,Certificate,"Certificate in Grammar & Writing Intermediate Level, Ascend Education Centre",2017-04-10,Admin Assistant,2022-04-24,2022-09-23,Part Time,Individual,2101-107,SG PR,38.4,152.0
+2101-107/003,F,Y,N,N,,1981-06-19,Diploma,"Diploma in Mechatronic Engineering, Nee Ann Polytechnic",,HR Manager,2022-04-24,2022-09-23,Part Time,Sponsored,2101-107,SG Citizen,44.6,152.0
+2101-107/004,F,Y,N,N,,1999-09-28,Certificate,"Higher Nitec in Hospitality Operations, ITE",,Admin Executive,2022-04-24,2022-09-23,Part Time,Individual,2101-107,SG Citizen,26.3,152.0
+2101-107/005,F,Y,N,N,,1967-10-19,Certificate,O' level,,"Senior Executive, Gaming Division",2022-04-24,2022-09-23,Part Time,Individual - waived App Fee,2101-107,SG Citizen,58.3,152.0
+2101-107/006,F,Y,N,N,,1994-04-10,Certificate,"Higher Nitec in Business Studies (Service Management), ITE",,Admin Assistant,2022-04-24,2022-09-23,Part Time,Sponsored,2101-107,SG Citizen,31.8,152.0
+2101-107/007,F,Y,N,N,,1999-05-24,Certificate,O' levels,,-,2022-04-24,2022-09-23,Part Time,Individual,2101-107,SG Citizen,26.7,152.0
+2101-107/008,F,Y,N,N,,1998-04-12,Certificate,O' levels,,Executive,2022-04-24,2022-09-23,Part Time,Individual,2101-107,SG Citizen,27.8,152.0
+2101-107/009,F,Y,N,N,,1987-10-21,Certificate,"WSQ Higher Certificate in Human Resources, HCS",,-,2022-04-24,2022-09-23,Part Time,Individual - SFC,2101-107,SG Citizen,38.2,152.0
+2101-108A/001,M,Y,N,N,,1994-04-08,Certificate,"Nitec in Fitness Training, ITE",2015-05-09,Sports trainer,2023-04-02,2023-06-12,Full-Time,Individual - SFC,2101-108A,SG Citizen,31.8,71.0
+2101-108A/002,F,N,N,Y,Malaysia,1986-02-18,Certificate,"SPM, Certificate in Business Studies (Business Administration) Level IV, Tunku Abdul Rahman College",2017-05-08,Admin Executive,2023-04-02,2023-06-12,Full-Time,Sponsored - no SDF,2101-108A,Foreigner,39.9,71.0
+2101-108A/003,F,Y,N,N,,1979-11-09,Certificate,"SPM, LCCI Level 2 Certificate in Book-keeping and Accounts / LCCI Level 3 Business Statistics",2005-05-12,Marketing Executive,2023-04-02,2023-06-12,Full-Time,Individual,2101-108A,SG Citizen,46.2,71.0
+2101-108A/004,F,Y,N,N,,1994-12-24,Diploma,"Diploma in Financial Informatics, Nanyang Polytechnic, CPA, SHRI Academy",2019-05-03,HR Administrator,2023-04-02,2023-06-12,Full-Time,Sponsored,2101-108A,SG Citizen,31.1,71.0
+2101-108A/005,F,Y,N,N,,1976-05-25,Certificate,"O' level, Foundation Certificate in Human Resource Management, SHRI Academy",2008-05-04,Admin Assistant,2023-04-02,2023-06-12,Full-Time,Individual,2101-108A,SG Citizen,49.7,71.0
+2101-108A/006,M,Y,N,N,,1998-04-23,Certificate,A level,,Admin Support Assistance,2023-04-02,2023-06-12,Full-Time,Individual,2101-108A,SG Citizen,27.7,71.0
+2101-108A/007,F,N,N,Y,Philippines,1996-12-23,Degree,"Bachelor of Arts, New Era University, Quezon City, Philippines",,Designer,2023-04-02,2023-06-12,Full-Time,Sponsored - no SDF,2101-108A,Foreigner,29.1,71.0
+2101-108A/008,F,N,N,Y,Malaysia,1992-12-09,Certificate,SPM,,Business Administrator,2023-04-02,2023-06-12,Full-Time,Individual,2101-108A,Foreigner,33.1,71.0
+2101-109/001,M,Y,N,N,,1998-10-10,Certificate,O' level,,Service Crew,2023-10-28,2024-03-13,Part-Time,Individual,2101-109,SG Citizen,27.3,137.0
+2101-109/002,F,Y,N,N,,1983-11-30,Certificate,"N Level, Foundation Certificate in HRM, SHRI Academy",,Sales & Operation Executive,2023-10-28,2024-03-13,Part-Time,Sponsored,2101-109,SG Citizen,42.1,137.0
+2101-109/003,F,Y,N,N,,1987-07-14,Certificate,O level,,Business Development Executive,2023-10-28,2024-03-13,Part-Time,Individual,2101-109,SG Citizen,38.5,137.0
+2101-109/004,F,Y,N,N,,1978-11-30,Certificate,"Certificate in Office Skills, ITE",,Junior executive,2023-10-28,2024-03-13,Part-Time,Individual,2101-109,SG Citizen,47.1,137.0
+2101-109/005,F,N,N,Y,Malaysia,1998-05-11,Certificate,SPM,,PR Officer,2023-10-28,2024-03-13,Part-Time,Individual,2101-109,Foreigner,27.7,137.0
+2101-109/006,F,Y,N,N,,1985-11-06,Certificate,"SPM, LCCI",,Business Support Manager,2023-10-28,2024-03-13,Part-Time,Individual,2101-109,SG Citizen,40.2,137.0
+2101-109/007,F,Y,N,N,,1989-05-27,Diploma,"Diploma in Business Admin, Newcastle University",,Team Assistant,2023-10-28,2024-03-13,Part-Time,Sponsored,2101-109,SG Citizen,36.6,137.0
+2101-109/008,F,Y,N,N,,1992-04-18,Certificate,"Foundation Certificate in Tourism, HLI Academy",,-,2023-10-28,2024-03-13,Part-Time,Individual - waived App Fee,2101-109,SG Citizen,33.8,137.0
+2101-110/001,F,Y,N,N,,1993-09-22,Degree,"Bachelor of Business Administration, NUS",,APAC HR Specialist,2024-04-15,2024-09-14,Part-Time,Sponsored,2101-110,SG Citizen,32.3,152.0
+2101-110/002,F,Y,N,N,,1992-10-18,Certificate,O' level,,Snr Client Service Executive,2024-04-15,2024-09-14,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,2101-110,SG Citizen,33.3,152.0
+2101-110/003,F,Y,N,N,,2001-12-11,Certificate,"Nitec in Electronics, Computer Networking & Communications, ITE",,Admin Intern,2024-04-15,2024-09-14,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,2101-110,SG Citizen,24.1,152.0
+2101-110/004,F,Y,N,N,,1969-12-18,Certificate,"Basic Certificate in HRM, SHRI",,"Executive, Corporate Services",2024-04-15,2024-09-14,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,2101-110,SG Citizen,56.1,152.0
+2101-110/005,F,Y,N,N,,1987-11-12,Certificate,O' level,,Admin Executive,2024-04-15,2024-09-14,Part-Time,Individual - SFC,2101-110,SG Citizen,38.2,152.0
+2101-110/006,F,Y,N,N,,,Degree,"Bachelor of Commerce (Management and Marketing), Curtin University of Technology",,Manager (Engagement),2024-04-15,2024-09-14,Part-Time,Individual - SFC,2101-110,SG Citizen,,152.0
+2101-110/007,F,Y,N,N,,,Degree,"Bachelor of Science in Business, SUSS",,Executive,2024-04-15,2024-09-14,Part-Time,Individual - SFC,2101-110,SG Citizen,,152.0
+2101-110/008,F,Y,N,N,,,Diploma,"Diploma in Integrated Events Management, Republic Polytechnic",,"Associate, HR & General Affairs",2024-04-15,2024-09-14,Part-Time,Individual - SFC,2101-110,SG Citizen,,152.0
+2101-111/001,F,N,Y,N,Malaysian,1995-07-08,Degree,"Bachelor of Science (HRD), Universiti Teknologi Malaysia",2020-04-04,Manager,2025-10-24,,Part Time,Indivodual,2101-111,SG PR,30.5,
+2101-111/002,F,Y,N,N,,1997-09-08,Certificate,"Certificate in Grammar & Writing Intermediate Level, Ascend Education Centre",2021-04-10,Admin Assistant,2025-10-24,,Part Time,Individual,2101-111,SG Citizen,28.4,
+2101-111/003,F,Y,N,N,,1999-06-19,Diploma,"Diploma in Mechatronic Engineering, Nee Ann Polytechnic",,HR Manager,2025-10-24,,Part Time,Sponsored,2101-111,SG Citizen,26.6,
+2101-111/004,F,Y,N,N,,2010-09-28,Certificate,"Higher Nitec in Hospitality Operations, ITE",,Admin Executive,2025-10-24,,Part Time,Individual,2101-111,SG Citizen,15.3,
+2101-111/005,F,Y,N,N,,1990-10-19,Certificate,O' level,,Admin Executive,2025-10-24,,Part Time,Individual - waived App Fee,2101-111,SG Citizen,35.3,
+2101-111/006,F,Y,N,N,,1999-04-10,Certificate,"Higher Nitec in Business Studies (Service Management), ITE",,Admin Assistant,2025-10-24,,Part Time,Sponsored,2101-111,SG Citizen,26.8,
+2101-111/007,F,Y,N,N,,2000-05-24,Certificate,O' levels,,Secretary,2025-10-24,,Part Time,Individual,2101-111,SG Citizen,25.7,
+2101-111/008,F,Y,N,N,,2001-04-12,Certificate,O' levels,,Executive,2025-10-24,,Part Time,Individual,2101-111,SG Citizen,24.8,
+2102-063/001,F,Y,N,N,,1969-02-10,Degree,"Bachelor of Accountancy, Singapore Management University",,-,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,56.9,149.0
+2102-063/002,F,Y,N,N,,1992-07-22,Certificate,O' level; Certificate for Emloyment Intermediaries (CEI) Basic,,Consultant,2022-04-18,2022-09-14,Part-Time,Individual - SFC,2102-063,SG Citizen,33.5,149.0
+2102-063/003,F,Y,N,N,,1982-07-25,Diploma,"Diploma in Human Resource Management, PSB, ACTA",,-,2022-04-18,2022-09-14,Part-Time,Individual - SFC,2102-063,SG Citizen,43.5,149.0
+2102-063/004,F,Y,N,N,,1962-11-30,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",,Admin Executive,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,63.1,149.0
+2102-063/005,F,Y,N,N,,1967-10-19,Certificate,O' level,,"Senior Vice President, Gaming Division",2022-04-18,2022-09-14,Part-Time,Individual - SFC,2102-063,SG Citizen,58.3,149.0
+2102-063/006,F,Y,N,N,,1971-07-05,Degree,"BSc in Business and Management Studies, University of Bradford",,Snr Admin Executive,2022-04-18,2022-09-14,Part-Time,Sponsored,2102-063,SG Citizen,54.5,149.0
+2102-063/007,F,Y,N,N,,1983-03-22,Diploma,"Diploma in Maritime Studies, Institute of Maritime & Business Management (IMBM)",,-,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,42.8,149.0
+2102-063/008,F,Y,N,N,,1979-11-11,Certificate,O' level,,-,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,46.2,149.0
+2102-063/009,F,Y,N,N,,1992-04-29,Certificate,"Nitec in Product Design, ITE",,Waitress,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,33.7,149.0
+2102-063/010,F,Y,N,N,,1987-08-11,Diploma,"Diploma in Business & Human Resource Management, SHRI",2017-06-02,-,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,38.4,149.0
+2102-063/011,F,Y,N,N,,1993-07-10,Degree,"Bachelor of Commerce in HRM, Murdoch University",2017-06-01,HR Executive,2022-04-18,2022-09-14,Part-Time,Indvidual - SFC,2102-063,SG Citizen,32.5,149.0
+2102-063/012,F,Y,N,N,,1988-07-04,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",2015-06-09,Accounts Executive,2022-04-18,2022-09-14,Part-Time,Individual - SFC,2102-063,SG Citizen,37.5,149.0
+2102-063/013,F,N,N,Y,Vietnam,1989-07-24,,,2016-06-06,Accounts Executive,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,Foreigner,36.5,149.0
+2102-063/014,F,Y,N,N,,1981-01-06,Diploma,"Diploma in Business Administration (HRM), PSB Academy",2016-06-04,HR & Admin,2022-04-18,2022-09-14,Part-Time,Individual - SFC,2102-063,SG Citizen,45.0,149.0
+2102-063/015,F,N,Y,N,Malaysia,1984-04-08,Degree,"Bachelor of Arts in HRM with Organisational Psychology, Edinburgh Napier University",2016-06-09,Senior HR,2022-04-18,2022-09-14,Part-Time,Sponsored,2102-063,SG PR,41.8,149.0
+2102-063/016,F,Y,N,N,,1993-07-18,Degree,"Bachelor of Arts in Business and Finance, Coventry University",2017-06-04,-,2022-04-18,2022-09-14,Part-Time,Individual,2102-063,SG Citizen,32.5,149.0
+2102-064/001,F,Y,N,N,,1993-12-11,Degree,"Bachelor of Science in Mathematics and Economics, UOL",2015-06-08,Admin Executive,2022-10-08,2023-09-13,Part-Time,Individual,2102-064,SG Citizen,32.1,340.0
+2102-064/002,M,Y,N,N,,1981-12-10,Degree,"Bachelor of Commerce, Deakin University",2017-06-07,Manager,2022-10-08,2023-03-23,Part-Time,Sponsored,2102-064,SG Citizen,44.1,166.0
+2102-064/003,F,Y,N,N,,1984-10-02,Diploma,"Diploma in Business Administration (HRM), PSB Academy / CHRM, SHRI / Nitec in Office Skills, ITE",2018-06-06,Center Administrator,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,SG Citizen,41.3,166.0
+2102-064/004,F,Y,N,N,,1973-11-04,Certificate,"Certificate in Office Skills, ITE",2016-06-07,-,2022-10-08,2023-03-23,Part-Time,Individual - SFC,2102-064,SG Citizen,52.2,166.0
+2102-064/005,F,Y,N,N,,1983-03-11,Diploma,"Diploma in Electrical Engineering, Singapore Polytechnic",2015-06-09,"Team Lead, Payroll & Billing",2022-10-08,2023-03-23,Part-Time,Individual - SFC,2102-064,SG Citizen,42.9,166.0
+2102-064/006,F,Y,N,N,,1982-07-21,Diploma,"Diploma in Electronics, Computer & Communication Engineering, Singapore Polytechnic",2016-06-05,Officer,2022-10-08,2023-03-23,Part-Time,Individual - SFC,2102-064,SG Citizen,43.5,166.0
+2102-064/007,F,Y,N,N,,1965-08-05,Certificate,O' level,,Senior Executive,2022-10-08,2023-03-23,Part-Time,Sponsored - no SDF,2102-064,SG Citizen,60.5,166.0
+2102-064/008,F,Y,N,N,,1972-01-13,Degree,"Bachelor of Commerce, University of Mumbai",,-,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,SG Citizen,54.0,166.0
+2102-064/009,F,N,Y,N,India,1977-03-13,Degree,-,,-,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,SG PR,48.9,166.0
+2102-064/010,F,Y,N,N,,1986-10-16,Diploma,"Diploma in Electrical & Computer Control Engineering, Singapore Polytechnic",,HR Assistant,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,SG Citizen,39.3,166.0
+2102-064/011,F,N,N,Y,India,1982-05-20,Master,"Master of Business Administration (HR), Amity University, India",,-,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,Foreigner,43.7,166.0
+2102-064/012,F,Y,N,N,,1983-11-28,Diploma,"Diploma in Business Administration, PSB Academy",,HR & Admin Manager,2022-10-08,2023-03-23,Part-Time,Sponsored - SDF,2102-064,SG Citizen,42.1,166.0
+2102-064/013,F,N,N,Y,Philippines,1973-10-13,Degree,"Bachelor of Business Administration, St Paul College of Dumaguete City, Philippines",,Senior Administrative Executive,2022-10-08,2023-03-23,Part-Time,Individual,2102-064,Foreigner,52.3,166.0
+2102-064/014,F,N,Y,N,Malaysia,1985-02-28,Diploma,"Diploma in Business Administration (HRM), PSB Academy",,Human Resource Administrator,2022-10-08,2023-03-23,Part-Time,Sponsored - SDF,2102-064,SG PR,40.9,166.0
+2102-065A/001,F,N,Y,N,Malaysia,1993-04-23,Degree,"Bachelor of Business Administration (Honours), Universiti Tunku Abdul Rahman",,HR Executive,2023-01-05,2023-02-04,Full-Time,Sponsored,2102-065A,SG PR,32.7,30.0
+2102-065A/002,F,Y,N,N,,1968-09-16,Certificate,A' level,,-,2023-01-05,2023-02-04,Full-Time,Individual - SFC,2102-065A,SG Citizen,57.3,30.0
+2102-065A/003,F,Y,N,N,,1974-07-02,Diploma,"Advanced Diploma in Business Administration, University of Technology Sydney/IBMEC",,Assistant Manager (Admin Support),2023-01-05,2023-02-04,Full-Time,Individual,2102-065A,SG Citizen,51.6,30.0
+2102-065A/004,F,Y,N,N,,1992-03-09,Degree,"Bachelor of Science in Business, University of London",,HR Officer,2023-01-05,2023-02-04,Full-Time,Individual - SFC,2102-065A,SG Citizen,33.9,30.0
+2102-065A/005,F,Y,N,N,,1977-10-16,Diploma,"Diploma in Business Administration, Singapore Polytechnic",,HR/Admin,2023-01-05,2023-02-04,Full-Time,Sponsored - SDF,2102-065A,SG Citizen,48.3,30.0
+2102-065A/006,F,N,N,Y,Myanmar,1989-02-22,Diploma,"Diploma in Accountancy, Kaplan Higher Education Institute",,Admin Officer,2023-01-05,2023-02-04,Full-Time,Individual,2102-065A,Foreigner,36.9,30.0
+2102-065A/007,F,N,Y,N,India,1984-02-24,Degree,"BBA, Mangalore University",,-,2023-01-05,2023-02-04,Full-Time,Individual,2102-065A,SG PR,41.9,30.0
+2102-065A/008,F,Y,N,N,,1979-06-07,Degree,"Bachelor of Arts in Human Resource Management, Monash University",,Training Coordinator,2023-01-05,2023-02-04,Full-Time,Individual - SFC,2102-065A,SG Citizen,46.6,30.0
+2102-065A/009,F,N,Y,N,China,1983-07-18,Degree,"Bachelor of Business Administration, Xi'an Shiyou University, China",,HR Executive,2023-01-05,2023-02-04,Full-Time,Sponsored - no SDF,2102-065A,SG PR,42.5,30.0
+2102-065A/010,F,Y,N,N,,1992-12-01,Degree,"Bachelor of Arts in Accounting & Financial Management, The University of Sheffield",,Client Accountant,2023-01-05,2023-02-04,Full-Time,Sponsored,2102-065A,SG Citizen,33.1,30.0
+2102-065A/011,F,Y,N,N,,1981-08-18,Diploma,"Diploma in Business & HRM, Republic Polytechnic",,HR & Admin Officer,2023-01-05,2023-02-04,Full-Time,Individual - SFC,2102-065A,SG Citizen,44.4,30.0
+2102-065A/012,F,N,Y,N,India,1984-03-23,Degree,"Bachelor of Science (Agriculture), Kerala Agriculture University",,Corporate Service Executive,2023-01-05,2023-02-04,Full-Time,Individual,2102-065A,SG PR,41.8,30.0
+2102-066/001,F,Y,N,N,,1981-12-03,Degree,"Bachelor of Commerce in HRM,   Murdoch University",,Senior Eexcutive,2023-04-08,2023-09-13,Part-Time,Sponsored - no SDF,2102-066,SG Citizen,44.1,158.0
+2102-066/002,F,Y,N,N,,1967-03-17,Certificate,A' level,,-,2023-04-08,2023-09-13,Part-Time,Individual - SFC,2102-066,SG Citizen,58.8,158.0
+2102-066/003,F,Y,N,N,,1984-01-15,Diploma,"Diploma in Accountancy, Ngee Ann Polytechnic",,Accountant,2023-04-08,2023-09-13,Part-Time,Individual-SFC,2102-066,SG Citizen,42.0,158.0
+2102-066/004,F,N,N,Y,Malaysia,1994-10-04,Diploma,Diploma in Commerce (Human Resource Management),,HR Assistant,2023-04-08,2023-09-13,Part-Time,Sponsored - no SDF,2102-066,Foreigner,31.3,158.0
+2102-066/005,F,Y,N,N,,1965-12-02,Diploma,"Diploma in Business Adminsitration, Singapore Polytechnic",,Snr HR Executive,2023-04-08,2023-09-13,Part-Time,Sponsored,2102-066,SG Citizen,60.1,158.0
+2102-066/006,F,Y,N,N,,1965-09-05,Diploma,"Diploma in Personnel Management, National Productivity Board",,Snr HR Executive,2023-04-08,2023-09-13,Part-Time,Sponsored,2102-066,SG Citizen,60.4,158.0
+2102-066/007,F,N,N,Y,Philippines,1983-05-09,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",,Labour Admin Executive,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,Foreigner,42.7,158.0
+2102-066/008,F,N,N,Y,Philippines,1983-12-05,Degree,"Bachelor in Banking and Finance, Polytechnic University of the Philippines",,HR Payroll Analyst,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,Foreigner,42.1,158.0
+2102-066/009,F,N,N,Y,Philippines,1978-09-27,Degree,"Bachelor of Science in Accountancy, University of Santo Tomas",,Payroll,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,Foreigner,47.3,158.0
+2102-066/010,F,Y,N,N,,1981-08-10,Diploma,"Diploma in Human Resource Management, PSB Academy",,People Ops Specialist - APAC,2023-04-08,2023-09-13,Part-Time,Individual-SFC,2102-066,SG Citizen,44.4,158.0
+2102-066/011,F,Y,N,N,,1986-11-27,Degree,"Bachelor of Communication, Murdoch University",,Editor,2023-04-08,2023-09-13,Part-Time,Individual - SFC,2102-066,SG Citizen,39.1,158.0
+2102-066/012,F,Y,N,N,,1980-04-18,Certificate,"Certificate in HRM, SHRI Academy",,HRM,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,SG Citizen,45.8,158.0
+2102-066/013,F,Y,N,N,,1991-10-21,Degree,"Bachelor of Arts in HRM, Kingston University",,HR Supervisor,2023-04-08,2023-09-13,Part-Time,Individual - SFC,2102-066,SG Citizen,34.2,158.0
+2102-066/014,F,N,N,Y,India,1981-06-08,Degree,"Bachelor of Bank Management, University of Madras",,Account Manager,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,Foreigner,44.6,158.0
+2102-066/015,F,N,Y,N,Malaysia,1987-09-06,Degree,"Bachelor of Business Administration, Universiti Tunku Abdul Rahman",,Human Resource Officer,2023-04-08,2023-09-13,Part-Time,Sponsored,2102-066,SG PR,38.4,158.0
+2102-066/016,F,N,Y,N,China,1984-10-31,Master,"Master of Business Adminsitration, Southern Cross University",,HR & Admin Officer,2023-04-08,2023-09-13,Part-Time,Individual,2102-066,SG PR,41.2,158.0
+2102-067A/001,F,Y,N,N,,1993-01-20,Degree,"Bachelor of Science (Business Management), UOL",,Executive,2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,33.0,80.0
+2102-067A/002,F,Y,N,N,,1976-04-11,Diploma,"Diploma in Business Administration (Accounting & Finance), PSB Academy",,"Snr Executive, Accounts",2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,49.8,80.0
+2102-067A/003,F,Y,N,N,,1973-09-10,Diploma,LCCI Diploma in Accounting (Third Level),,Snr Accounts Officer,2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,52.4,80.0
+2102-067A/004,F,Y,N,N,,1988-12-27,Diploma,"Diploma in Sales & Marketing, MIS",,"Executive, Student Care Services",2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,37.1,80.0
+2102-067A/005,F,N,Y,N,Malaysia,1992-11-11,Degree,"Bachelor of Engineering, Universiti Malaysia Perlis",,Device Engineer,2023-10-02,2023-12-21,Full-Time,Individual,2102-067A,SG PR,33.2,80.0
+2102-067A/006,F,Y,N,N,,1985-11-09,Certificate,"Certificate in Opticianry Practice, Republic Poly, WPLN",,-,2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,40.2,80.0
+2102-067A/007,F,Y,N,N,,1989-08-26,Certificate,O level,,-,2023-10-02,2023-12-21,Full-Time,Individual,2102-067A,SG Citizen,36.4,80.0
+2102-067A/008,F,Y,N,N,,1980-12-17,Degree,"Bachelor of Human Resource Management, SUSS",,HR Executive,2023-10-02,2023-12-21,Full-Time,Sponsored,2102-067A,SG Citizen,45.1,80.0
+2102-067A/009,F,N,Y,N,Malaysia,1992-11-24,Degree,"Bachelor of Economics, University of Malaya",,HR Executive,2023-10-02,2023-12-21,Full-Time,Sponsored,2102-067A,SG PR,33.2,80.0
+2102-067A/010,M,Y,N,N,,1990-02-26,Degree,"Bachelor of Science  in Chemical Engineering, Singapore Institute of Technology",,Operations Executive,2023-10-02,2023-12-21,Full-Time,Individual - SFC,2102-067A,SG Citizen,35.9,80.0
+2102-067A/011,F,N,Y,N,China,,Degree,"Bachelor of Science (Nursing), Curtin University of Technology",,Staff Nurse,2023-10-02,2023-12-21,Full-Time,Individual,2102-067A,SG PR,,80.0
+2102-068A/001,M,Y,N,N,,1969-10-15,Degree,"Bachelor of Accountancy, jointly offered by NUS/NTU",,Senior Manager,2024-01-02,2024-03-08,Full-Time,Sponsored,2102-068A,SG Citizen,56.3,66.0
+2102-068A/002,F,Y,N,N,,1974-07-07,Degree,"Bachelor of Science in Business Management, University of Birmingham",,Assistant Executive (Payroll),2024-01-02,2024-03-08,Full-Time,Individual - SFC,2102-068A,SG Citizen,51.5,66.0
+2102-068A/003,F,Y,N,N,,1968-10-17,Certificate,"FCHRM, SHRI Academy",,Administrator,2024-01-02,2024-03-08,Full-Time,Individual - waived App Fee,2102-068A,SG Citizen,57.3,66.0
+2102-068A/004,M,Y,N,N,,1996-05-05,Diploma,"Diploma in Events Management, Kaplan",,-,2024-01-02,2024-03-08,Full-Time,Individual,2102-068A,SG Citizen,29.7,66.0
+2102-068A/005,F,Y,N,N,,1970-06-24,Diploma,"Diploma in Business, Marketing Institute of Singapore",,Admin Support Executive,2024-01-02,2024-03-08,Full-Time,Sponsored,2102-068A,SG Citizen,55.6,66.0
+2102-068A/006,F,N,Y,N,China,1994-02-14,Degree,"Bachelor of Communications in Public Relations, Universiti Tunku Abdul Rahman",,Recruitment Consultant,2024-01-02,2024-03-08,Full-Time,Individual,2102-068A,SG PR,31.9,66.0
+2102-068A/007,F,N,Y,N,China,1989-12-02,Certificate,SPM,,Payroll Specialist,2024-01-02,2024-03-08,Full-Time,Sponsored,2102-068A,SG PR,36.1,66.0
+2102-068A/008,F,Y,N,N,,1984-12-05,Diploma,"Specialist Diploma in HRM, Nanyang Polytechnic",,-,2024-01-02,2024-03-08,Full-Time,Individual,2102-068A,SG Citizen,41.1,66.0
+2102-068A/009,F,Y,N,N,,1977-02-13,Diploma,"Graduate Diploma in Business Administration (Operations & Logistics Management), SIM",,-,2024-01-02,2024-03-08,Full-Time,Individual - SFC + $1000 SCHOLARSHIP,2102-068A,SG Citizen,48.9,66.0
+2102-068A/010,F,Y,N,N,,1971-11-07,Diploma,"Diploma in Computing, MMU",,HR Manager,2024-01-02,2024-03-08,Full-Time,Individual,2102-068A,SG Citizen,54.2,66.0
+2102-069/001,F,Y,N,N,,1961-04-01,Certificate,"O level, Private Secretary Certificate, LCCI",,Secretary,2024-04-15,2024-09-14,Part-Time,Sponsored,2102-069,SG Citizen,64.8,152.0
+2102-069/002,F,N,N,Y,Malaysia,2000-12-05,Certificate,SPM,,Admin Asst,2024-04-15,2024-09-14,Part-Time,Sponsored-no SDF,2102-069,Foreigner,25.1,152.0
+2102-069/003,F,Y,N,N,,1977-08-27,Diploma,"Diploma in Compensation & Benfits Management, Achiever Academy",,Office Dept Head,2024-04-15,2024-09-14,Part-Time,Individual - SFC,2102-069,SG Citizen,48.4,152.0
+2102-069/004,F,Y,N,N,,1993-02-04,Degree,"Bachelor of Science in Accounting & Finance, UOL",,-,2024-04-15,2024-09-14,Part-Time,Individual - SFC,2102-069,SG Citizen,33.0,152.0
+2102-069/005,M,Y,N,N,,1970-10-23,Degree,"Graduate Diploma in TRM, MDIS",,"Assistant Manager, Inbound Tour",2024-04-15,2025-03-15,Part-Time,Individual - waived App Fee,2102-069,SG Citizen,55.2,334.0
+2102-069/006,F,Y,N,N,,1983-11-18,Certificate,"NTC-2 Chemical Process Technology, ITE",,"Associate, HR & Payroll",2024-04-15,2024-09-14,Part-Time,Individual - SFC,2102-069,SG Citizen,42.2,152.0
+2102-069/007,F,N,Y,N,Malaysia,1992-09-02,Diploma,Diploma in Accountancy,,Account Junior,2024-04-15,2024-09-14,Part-Time,Individual,2102-069,SG PR,33.4,152.0
+2102-069/008,F,Y,N,N,,1992-09-06,Certificate,N Level,,Admin Officer,2024-04-15,2024-09-14,Part-Time,Sponsored,2102-069,SG Citizen,33.4,152.0
+2102-069/009,F,Y,N,N,,1988-01-17,Degree,"Bachelor of Science in Banking & Finance, UOL",,Senior HR Executive,2024-04-15,2024-09-14,Part-Time,Sponsored,2102-069,SG Citizen,38.0,152.0
+2102-069/010,M,Y,N,N,,1987-09-13,Degree,"Bachelor of Arts and Social Science, NUS",,"Officer, Administration and Operations",2024-04-15,2024-09-14,Part-Time,Individual - SFC,2102-069,SG Citizen,38.4,152.0
+2102-069/011,M,Y,N,N,,1988-01-20,Degree,"Bachelor of Arts and Social Science, NUS",,HR Executive,2024-04-15,2024-09-14,Part-Time,Sponsored - no SDF,2102-069,SG Citizen,38.0,152.0
+2102-070/001,F,Y,N,N,,1991-02-16,Degree,Postgraduate Diploma in Strategic Human Capital Management,,Human Reosurce Executive,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,34.9,151.0
+2102-070/002,F,Y,N,N,,1972-06-09,Diploma,"Professional Diploma in Leadership and People Management, SSG / 'A' level",,-,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,53.6,151.0
+2102-070/003,M,Y,N,N,,1987-12-04,Degree,"Bachelor of Commerce in Human Resource Management, Murdoch University",,HR Executive,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,38.1,151.0
+2102-070/004,F,N,N,Y,Malaysia,1998-12-28,Certificate,SPM,,Receptionist,2025-04-14,2025-09-12,Part-Time,Sponsored - no SDF,2102-070,Foreigner,27.1,151.0
+2102-070/005,F,Y,N,N,,1973-07-12,Diploma,"Diploma in Integrated Logistics Management, The Logistics Academy Pte Ltd",,-,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,52.5,151.0
+2102-070/006,F,Y,N,N,,1978-10-12,Diploma,"Diploma in Product & Industrial Design, Temasek Polytechnic",,-,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,47.3,151.0
+2102-070/007,F,N,Y,N,India,1980-03-16,Master,"Master of Business Administration, Anna University, India",,-,2025-04-14,2025-09-12,Part-Time,Individual,2102-070,SG PR,45.8,151.0
+2102-070/008,F,Y,N,N,,1990-09-21,Degree,"Bachelor of Business, University of Tasmania",,-,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,35.3,151.0
+2102-070/009,F,Y,N,N,,1983-01-12,Certificate,N level,,HR Assistant,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,43.0,151.0
+2102-070/010,F,Y,N,N,,1974-01-23,Degree,"Bachelor of Communication, SIM University",,Senior Manager,2025-04-14,2025-09-12,Part-Time,Individual,2102-070,SG Citizen,52.0,151.0
+2102-070/011,F,Y,N,N,,1978-05-22,Degree,"Bachelor of Business Administration, University of South Australia",,HR Manager,2025-04-14,2025-09-12,Part-Time,Individual - SFC,2102-070,SG Citizen,47.7,151.0
+5112-008/001,M,Y,N,N,,1983-01-22,Degree,"Degree of Bachelor of Science with Honours in Biological Sciences/
+Nanyang Technological University",,N.A.,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,43.0,346.0
+5112-008/001,M,Y,N,N,,1983-01-22,Degree,"Degree of Bachelor of Science with Honours in Biological Sciences/
+Nanyang Technological University",,Admin Manager,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,43.0,346.0
+5112-008/002,F,Y,N,N,,1982-10-17,Degree,"Honours Degree of Bachelor of Science (Management)/
+National University of Ireland",,HR Manager,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,43.3,346.0
+5112-008/003,M,Y,N,N,,1986-03-27,Master,"Master of Arts (Chinese Studies)/
+National University of Singapore",,Senior Recruitment Manager,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,39.8,346.0
+5112-008/004,F,N,N,Y,China,1989-08-06,Degree,"Bachelor of Business (Accounting)/
+Murdoch University",,Admin Supervisor,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,Foreigner,36.5,346.0
+5112-008/004,F,N,N,Y,China,1989-08-06,Degree,"Bachelor of Business (Accounting)/
+Murdoch University",,Admin Supervisor,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,Foreigner,36.5,346.0
+5112-008/005,F,Y,N,N,,1974-08-07,Degree,"Bachelor of Business with Honours Class Two: I (International Business)/
+Universiti Malaysia Sabah",,Admin Manager,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,51.5,346.0
+5112-008/006,F,N,Y,N,China,1985-09-07,Degree,"Bachelor of Business (Economics and Finance)/
+RMIT University",,HR Executive,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG PR,40.4,346.0
+5112-008/007,F,N,N,Y,Philippines,1975-09-23,Degree,"Bachelor in Tourism/
+Polytechnic University of The Philippines",2018-05-05,Human Resource Executive,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,Foreigner,50.3,346.0
+5112-008/008,F,Y,N,N,,1983-09-01,Diploma,"Diploma in Business Administration/
+Systematic College Johor Bahru",2016-05-10,HR Specialist,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,42.4,346.0
+5112-008/009,F,N,N,Y,Myanmar,1984-01-26,Degree,"Degree of Bachelor of Development Studies/
+Yangon Institute of Economics",2012-05-10,Human Resource & Admin Manager,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,Foreigner,42.0,346.0
+5112-008/010,F,Y,N,N,,1977-04-11,Degree,"Bachelor of Arts with Merit/
+National University of Singapore",2015-05-11,Senior HR Executive,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,48.8,346.0
+5112-008/011,F,Y,N,N,,1969-10-31,Diploma,"Diploma in Commerce (Business Administration)/
+Kaplan Higher Education Institute",2016-05-05,Human Resource Director,2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,56.2,346.0
+5112-008/012,F,Y,N,N,,1993-10-04,Degree,"Bachelor of Commerce in Hospitality & Tourism Management and Human Resource Management/
+Murdoch University",2017-05-09,"Executive, Human Capital",2022-10-18,2023-09-29,Part-Time,Individual,5112-008,SG Citizen,32.3,346.0
+5112-009/001,F,Y,N,N,,1972-11-14,Diploma,"Diploma in Business Administration/
+International Business and Management Education Centre (IBMEC)",2015-08-10,"HR & Operations Manager, South East Asia",2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,53.2,342.0
+5112-009/002,F,Y,N,N,,1985-03-12,Degree,"Bachelor of Accountancy (Merit)/
+Singapore Management University",2015-08-08,Assistant Manager Americas,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,40.9,342.0
+5112-009/003,M,Y,N,N,,1985-06-22,Diploma,"Diploma in Compensation & Benefits Management/
+SHRI Academy Pte Ltd",2015-08-10,HR Executive,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,40.6,342.0
+5112-009/004,M,Y,N,N,,1977-08-09,Degree,"Bachelor of Arts with Honours Second Class:  Division II in International Business/
+Birmingham City University",2003-04-10,Helpdesk Manager,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,48.4,342.0
+5112-009/005,F,Y,N,N,,1982-06-01,Degree,"Bachelor of Arts in Tourism Events/
+Murdoch University",2016-04-10,Business Manager,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,43.6,342.0
+5112-009/006,F,Y,N,N,,1992-10-12,Degree,"Bachelor of Science in Business/
+University of London",2016-04-01,Talent Acquisition Specialist,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,33.3,342.0
+5112-009/007,F,Y,N,N,,1988-08-16,Degree,"Bachelor of Business (Accountancy)/
+Royal Melbourne Institute of Technology",,Sr HR Associate,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,37.4,342.0
+5112-009/008,F,Y,N,N,,1974-03-14,Degree,"Diploma in Business & Human Resource Management/
+Singapore Human Resource Management",,"Assistant Manager, HR Operations",2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,51.9,342.0
+5112-009/009,F,Y,N,N,,1970-08-16,Degree,"Postgraduate Diploma in Education (Specialisation in teaching at Secondary School level)/
+Nanyang Technological University",,Assistant Admin Manager,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,55.4,342.0
+5112-009/010,F,Y,N,N,,1989-03-20,Degree,"Bachelor of Education with a minor in Department of Geography/
+National Taiwan Normal University",,Flight Stewardess,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,36.8,342.0
+5112-009/011,M,Y,N,N,,1981-06-08,Diploma,"Diploma in Electronic & Computer Engineering/
+Ngee Ann Polytechnic",,Head of HR,2023-04-10,2024-03-17,Part Time,Individual,5112-009,SG Citizen,44.6,342.0
+5112-010/001,M,Y,N,N,,1986-01-22,Degree,"Degree of Bachelor of Science with Honours in Biological Sciences/
+Nanyang Technological University",,N.A.,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,40.0,340.0
+5112-010/002,F,Y,N,N,,1987-10-17,Degree,"Honours Degree of Bachelor of Science (Management)/
+National University of Ireland",,HR Manager,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,38.3,340.0
+5112-010/003,M,Y,N,N,,1992-03-27,Master,"Master of Arts (Chinese Studies)/
+National University of Singapore",,Senior Recruitment Manager,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,33.8,340.0
+5112-010/004,F,N,N,Y,China,1993-08-06,Degree,"Bachelor of Business (Accounting)/
+Murdoch University",,Admin Supervisor,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,Foreigner,32.5,340.0
+5112-010/005,F,Y,N,N,,1980-08-07,Degree,"Bachelor of Business with Honours Class Two: I (International Business)/
+Universiti Malaysia Sabah",,Admin Manager,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,45.5,340.0
+5112-010/006,F,N,Y,N,China,1990-09-07,Degree,"Bachelor of Business (Economics and Finance)/
+RMIT University",,HR Executive,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG PR,35.4,340.0
+5112-010/007,F,N,N,Y,Philippines,1999-09-23,Degree,"Bachelor in Tourism/
+Polytechnic University of The Philippines",2021-05-05,Human Resource Executive,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,Foreigner,26.3,340.0
+5112-010/008,F,Y,N,N,,1995-09-01,Diploma,"Diploma in Business Administration/
+Systematic College Johor Bahru",2021-05-10,HR Specialist,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,30.4,340.0
+5112-010/009,F,N,N,Y,Myanmar,1990-01-26,Degree,"Degree of Bachelor of Development Studies/
+Yangon Institute of Economics",2019-05-10,Human Resource & Admin Manager,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,Foreigner,36.0,340.0
+5112-010/010,F,Y,N,N,,1989-04-11,Degree,"Bachelor of Arts with Merit/
+National University of Singapore",2020-05-11,Senior HR Executive,2023-10-16,2024-09-20,Part-Time,Individual,5112-010,SG Citizen,36.8,340.0
+5112-011/001,F,Y,N,N,,1974-06-02,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",,HR Analyst,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,51.6,344.0
+5112-011/002,F,Y,N,N,,1982-02-24,Degree,"Degree of Bachelor of Engineering (Materials Engineering)/
+Nanyang Technological University",,ASSISTANT HR MANAGER,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,43.9,344.0
+5112-011/003,F,Y,N,N,,1991-05-07,Degree,"Bachelor of Business (Management)/
+RMIT University",,HR Officer,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,34.7,344.0
+5112-011/004,F,Y,N,N,,1985-07-16,Degree,"Bachelor of Arts/
+National University of Singapore",,HR Manager,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,40.5,344.0
+5112-011/005,M,Y,N,N,,1988-03-21,Degree,"Bachelor of Business with Second Class Honours (Upper Division)/
+Nanyang Technological University",,Recruitment Consultant,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,37.8,344.0
+5112-011/006,M,Y,N,N,,1991-01-08,Degree,"Bachelor of Business Administration (Accountancy) with Honours (Merit)/
+National University of Singapore",,"Senior Analyst, Compensation & Benefits",2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,35.0,344.0
+5112-011/007,M,Y,N,N,,1984-10-31,Degree,"Bachelor of Communications Major in Journalism; Major in Public Relations/
+Edith Cowan University",,Senior Manager,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,41.2,344.0
+5112-011/008,F,Y,N,N,,1983-03-29,Degree,"Bachelor of Business (Management)/
+Royal Melbourne Institute of Technology",,Senior HR Executive,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,42.8,344.0
+5112-011/009,F,N,Y,N,India,1970-02-16,Degree,"Bachelor of Arts (Honours)/
+University of Delhi",1995-10-09,Marketing Executive,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG PR,55.9,344.0
+5112-011/010,F,Y,N,N,,1983-07-17,Degree,"Bachelor of Science (Consumer Science) Honours Second Class Upper/
+Universiti Putra Malaysia",2018-10-04,N.A.,2024-04-08,2025-03-18,Part-Time,Individual,5112-011,SG Citizen,42.5,344.0
+5113-005/001,F,Y,N,N,,1975-11-14,Degree,"Bachelor of Arts in Business with Logistics and Supply Chain Management/
+University of Northumbria at Newscastle",1999-04-08,Household Goods Coordinator,2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,50.2,346.0
+5113-005/002,F,Y,N,N,,1983-01-28,Degree,"Bachelor of Business (Business Administration) with Distinction/
+Royal Melbourne Institute of Technology",2016-04-10,"Assistant Director, Human Resources",2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,43.0,346.0
+5113-005/003,F,Y,N,N,,1990-03-06,Degree,"Bachelor of Science in Hotel Administration (Hospitality Management)/
+University of Nevada, Las Vegas",2015-08-06,HR Assistant,2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,35.9,346.0
+5113-005/004,M,Y,N,N,,1985-02-09,Degree,"Bachelor of Science in Accounting and Finance with Third Class Honours/
+University of London",2016-05-04,Bank Executive,2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,40.9,346.0
+5113-005/005,F,Y,N,N,,1973-10-01,Degree,"Bachelor of Commerce (Accounting and Finance)/
+Curtin University of Technology",2017-05-11,"Head, Registry & Corp Admin",2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,52.3,346.0
+5113-005/006,F,N,Y,N,India,1982-09-30,Degree,"Bachelor of Economics (Accounting)/
+Universitas Katolik Indonesia",2000-05-05,Finance Officer,2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG PR,43.3,346.0
+5113-005/007,F,Y,N,N,,1996-11-06,Degree,"Degree of Computer Engineering, NTU",,Software Engneer,2022-10-18,2023-09-29,Part-Time,Individual,5113-005,SG Citizen,29.2,346.0
+5113-006/001,F,Y,N,N,,1980-11-06,Master,"Degree of Master of English as a Second Language/
+University of Malaya",,HR Section Manager,,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,45.2,
+5113-006/002,F,Y,N,N,,1990-09-22,Degree,"Bachelor of Commerce in Accounting/
+Murdoch University",,Accounting Assistant,,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,35.3,
+5113-006/003,F,Y,N,N,,1993-09-01,Degree,"Bachelor of Science with Second Class Honours (Upper Division) in Business/
+University of London",2019-10-02,Senior Human Resource Executive,,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,32.4,
+5113-006/004,M,Y,N,N,,1985-01-02,Degree,"Bachelor of Commerce (Management Human Resource Management)/
+Murdoch University",2010-10-04,"Senior Executive, Human Resource",,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,41.0,
+5113-006/005,F,Y,N,N,,1990-01-17,Degree,"Bachelor of Science (Education) with Second Class Honours (Lower Division)/
+National Technological University",2017-10-04,"Manager, Leadership & Coaching",,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,36.0,
+5113-006/006,F,Y,N,N,,1984-10-21,Degree,"Bachelor of Arts (Communication and Psychology)/
+State University of New York at Buffalo",2007-10-10,"Executive, HR",,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,41.2,
+5113-006/007,F,Y,N,N,,1995-10-19,Degree,"Bachelor of Arts and Social Science, National University of Singapore",,Busines Development Manager,,2024-03-17,Part-Time,Individual,5113-006,SG Citizen,30.3,
+5113-007/001,M,Y,N,N,,1972-02-11,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",1996-10-05,Manager,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,53.9,340.0
+5113-007/002,M,Y,N,N,,1966-07-17,Degree,"Bachelor of Science/
+National University of Singapore",1990-10-07,Assistant Vice-President,2023-10-16,2025-03-18,Part-Time,Individual,5113-007,SG Citizen,59.5,519.0
+5113-007/003,M,Y,N,N,,1970-01-03,Degree,Postgraduate Diploma in Education (Specialisation in teaching at Secondary School),,Teacher,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,56.0,340.0
+5113-007/004,F,N,N,Y,India,1970-07-27,Master,"Master of Business Administration/
+Jawaharlal Nehru Technological University Anantapur",,Manager,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,Foreigner,55.5,340.0
+5113-007/005,F,Y,N,N,,1993-11-07,Degree,"Graduate Diploma in Systems Analysis/
+National University of Singapore",,IT Developer,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,32.2,340.0
+5113-007/005,F,Y,N,N,,1993-11-07,Degree,"Graduate Diploma in Systems Analysis/
+National University of Singapore",,IT Developer,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,32.2,340.0
+5113-007/006,M,Y,N,N,,1991-01-14,Degree,"Bachelor of Science in Finance/
+Singapore University of Social Sciences",,Audit Associate,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,35.0,340.0
+5113-007/007,M,Y,N,N,,1978-08-18,Master,"Master in Business Administration with Merit/
+University of Bradford",,Lecturer,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,47.4,340.0
+5113-007/008,M,Y,N,N,,1997-01-11,Degree,"BBA, Monash University",2020-12-03,Admin Lead,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,29.0,340.0
+5113-007/001,M,Y,N,N,,1972-02-11,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",1996-10-05,Manager,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,53.9,340.0
+5113-007/002,M,Y,N,N,,1966-07-17,Degree,"Bachelor of Science/
+National University of Singapore",1990-10-07,Assistant Vice-President,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,59.5,340.0
+5113-007/003,M,Y,N,N,,1970-01-03,Degree,Postgraduate Diploma in Education (Specialisation in teaching at Secondary School),,Teacher,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,56.0,340.0
+5113-007/004,F,N,N,Y,India,1970-07-27,Master,"Master of Business Administration/
+Jawaharlal Nehru Technological University Anantapur",,Manager,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,Foreigner,55.5,340.0
+5113-007/005,F,Y,N,N,,1993-11-07,Degree,"Graduate Diploma in Systems Analysis/
+National University of Singapore",,IT Developer,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,32.2,340.0
+5113-007/006,M,Y,N,N,,1991-01-14,Degree,"Bachelor of Science in Finance/
+Singapore University of Social Sciences",,Audit Associate,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,35.0,340.0
+5113-007/007,M,Y,N,N,,1978-08-18,Master,"Master in Business Administration with Merit/
+University of Bradford",,Lecturer,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,47.4,340.0
+5113-007/008,M,Y,N,N,,1997-01-11,Degree,"BBA, Monash University",2020-12-03,Admin Lead,2023-10-16,2024-09-20,Part-Time,Individual,5113-007,SG Citizen,29.0,340.0
+5113-008/001,F,Y,N,N,,1980-12-05,Diploma,"Specialist Diploma in Human Resource Management/
+Nanyang Polytechnic",,HR Executive,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,45.1,344.0
+5113-008/002,M,Y,N,N,,1974-06-04,Master,"Master of Applied Science (Research)/
+Queensland University of Technology",,Consultant,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,51.6,344.0
+5113-008/003,F,Y,N,N,,1991-11-18,Degree,"Bachelor of Business (Marketing)/
+RMIT University",,Regional Recruiter,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,34.2,344.0
+5113-008/004,F,Y,N,N,,1974-04-29,Degree,"Bachelor of Commerce in Management and Marketing Management/
+Murdoch University",,Confidential Assistant,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,51.7,344.0
+5113-008/005,F,Y,N,N,,1981-10-19,Degree,"Bachelor of Arts in Human Resource Management, Edinburgh Napier University",,Journey Management Team Lead,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,44.3,344.0
+5113-008/006,F,Y,N,N,,1971-03-19,Degree,"Bachelor of Arts (Sociology)/
+State University of New York at Buffalo",,Academy Program Coordinator,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,SG Citizen,54.8,344.0
+5113-008/007,F,N,N,Y,China,1998-11-28,Degree,"Bachelor of Arts with Honours/
+National University of Singapore",,Management Associate,2024-04-08,2025-03-18,Part-Time,Individual,5113-008,Foreigner,27.1,344.0
+5113-009/001,F,N,N,Y,India,1985-11-14,Degree,"Bachelor of Arts in Business with Logistics and Supply Chain Management/
+University of Northumbria at Newscastle",2019-04-08,Program Coordinator,2025-10-14,,Part-Time,Individual,5113-009,Foreigner,40.2,
+5113-009/002,F,Y,N,N,,1993-01-28,Degree,"Bachelor of Business (Business Administration) with Distinction/
+Royal Melbourne Institute of Technology",2020-04-10,"Assistant Director, Business Development",2025-10-14,,Part-Time,Individual,5113-009,SG Citizen,33.0,
+5113-009/003,F,Y,N,N,,1995-03-06,Degree,"Bachelor of Science in Hotel Administration (Hospitality Management)/
+University of Nevada, Las Vegas",2019-08-06,HR Manager,2025-10-14,,Part-Time,Individual,5113-009,SG Citizen,30.9,
+5113-009/004,M,N,Y,N,Philippines,1995-02-09,Degree,"Bachelor of Science in Accounting and Finance with Third Class Honours/
+University of London",2020-05-08,Finance Manager,2025-10-14,,Part-Time,Individual,5113-009,SG PR,30.9,
+5113-009/005,F,Y,N,N,,1993-10-01,Degree,"Bachelor of Commerce (Accounting and Finance)/
+Curtin University of Technology",2019-05-11,"Head, Admin",2025-10-14,,Part-Time,Individual,5113-009,SG Citizen,32.3,
+5113-009/006,F,N,Y,N,Indonesia,1996-09-30,Degree,"Bachelor of Economics (Accounting)/
+Universitas Katolik Indonesia",2018-05-05,Accountant,2025-10-14,,Part-Time,Individual,5113-009,SG PR,29.3,
+5113-009/007,F,Y,N,N,,1996-11-06,Degree,"Degree of Computer Science, National University of Singapore",,Software Consultant,2025-10-14,,Part-Time,Individual,5113-009,SG Citizen,29.2,

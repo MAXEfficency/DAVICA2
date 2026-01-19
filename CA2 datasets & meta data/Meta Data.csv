@@ -1,0 +1,49 @@
+﻿Student Profiles,,
+"Note: data is manually entered, so the values are not standardized.",,
+Field Name,Description,Example
+STUDENT ID,Student ID is made up of three attributes: <Course code>-<Intake No>/<Index Number of student in the intake>,1101-013/001
+GENDER,Gender,"M, F"
+SG CITIZEN,Singapore Citizen,Y or blank
+SG PR,Singapore Permanent Citizen,Y or blank
+FOREIGNER,Neither SG Citizen nor SG PR,Y or empty (this and the above 2 fields are mutually exclusive)
+COUNTRY OF OTHER NATIONALITY,Country name of the nationality of either SG PR or foreigner,"Malaysia, India, China, etc.  Blank for SG Citizen."
+DOB,Date of Birth. Format is DD/MM/YYYY (all date fields use this format),04/03/1978
+HIGHEST QUALIFICATION,Highest qualification attained prior to taking this course,"Certificate, Diploma, Degree, Master"
+NAME OF QUALIFICATION AND INSTITUTION,Institutes where the highest qualification was attained,As provided by the participant
+DATE ATTAINED HIGHEST QUALIFICATION,Date when the highest qualification was awarded,06/11/2016
+DESIGNATION,Job designation,As provided by the participant
+COMMENCEMENT DATE,Date when the course starts,06/01/2023
+COMPLETION DATE,Date when the course ends,6/4/2024.  Blank if the course is still going on.
+FULL-TIME OR PART-TIME,Whether the course is Part-time or Full-time,"Full-Time, Part-Time"
+COURSE FUNDING,"Whether the course is sponsored or self-funded.  
+SFC - SkillsFuture Credit
+SDF - Skills Development Funds","Individual, Individual - SFC, Sponsored, Individual - waived App Fee"
+,,
+Course Codes,,
+Field Name,Description,Example
+CODE,Course code in 4 digits,1101
+COURSE NAME,Course name,Diploma in Business Management
+,,
+Student Results,,
+Field Name,Description,Example
+STUDENT ID,The same Student ID that should be found in the Student Profile dataset.,1101-013/001
+PERIOD,Semester Number,"Below is the number of semesters in each course:
+- Certificate - 1 semester
+- Diploma - 3 semesters
+- Specialist Diploma - 2 semesters
+There are exceptions where a student takes more semesters to complete a course."
+GPA,GPA of the semester,"Maximum GPA is 4. 
+Passing GPA for Certificates and Diploma: 2
+Passing GPA for Specialist Diploma: 2.3"
+,,
+Student Survey,,
+"At the end of the semester, every student is to fill up a survey that contains the following fields.",,
+Field Name,Description,Example
+STUDENT ID,The same Student ID that should be found in the Student Profile dataset.,1101-013/001
+PERIOD,Semester Number,Same as in the dataset “Student Results”
+PRIOR KNOWLEDGE,Student will rate how much he/she knows about the subjects before the semester starts. ,Rating from the least (1) to the most (5)
+COURSE RELEVANCE,How much the student thinks the course is relevant to his/her job or future study,Rating from the least (1) to the most (5)
+TEACHING SUPPORT,How much support the student has gained from the teachers or the material provided ,Rating from the least (1) to the most (5)
+COMPANY SUPPORT,"How much support the student has gained from the company, e.g. sponsorship, time-off, less workload",Rating from the least (1) to the most (5)
+FAMILY SUPPORT,"How much support from the family, e.g. adequate time for self-study over weekend, no family finance issue",Rating from the least (1) to the most (5)
+SELF-STUDY HRS,"The number of hours spent per week on self-study before or after lesson, e.g. to read material before lesson, to revise material, to do assignments or projects.",Integer number
