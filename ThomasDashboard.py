@@ -719,7 +719,7 @@ app.layout = dbc.Container([
                         'borderColor': COLORS['border'],
                         'color': COLORS['text_primary']
                     },
-                    href='/lingger-dashboard',
+                    href='http://127.0.0.1:8051',
                     external_link=True
                 )
             ], style={'marginBottom': '1rem'})
