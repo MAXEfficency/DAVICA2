@@ -63,7 +63,7 @@ CHART_TEMPLATE = {
 def load_and_prepare_data():
     """Load and prepare the master dataset with all necessary calculations"""
     
-    df = pd.read_csv('cleaned_data/master_dataset.csv')
+    df = pd.read_csv('../cleaned_data/master_dataset.csv')
     
     # Drop rows with NaN in critical columns
     df = df.dropna(subset=['PERIOD', 'GPA', 'STUDENT ID'])
