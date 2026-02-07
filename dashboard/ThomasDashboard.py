@@ -333,7 +333,7 @@ def create_line_trajectory(df, view_mode):
         'yaxis_title': 'Average GPA',
         'yaxis_range': [1.5, 4.0],
         'hovermode': 'x unified',
-        'height': 450,  # Increased height
+        'height': 450,
         'updatemenus': [{
             'buttons': dropdown_buttons,
             'direction': "down",
@@ -341,14 +341,14 @@ def create_line_trajectory(df, view_mode):
             'showactive': True,
             'x': 0.02,
             'xanchor': "left",
-            'y': 1.22,  # Moved higher to avoid title overlap
+            'y': 1.28,
             'yanchor': "top",
             'bgcolor': COLORS['card'],
             'bordercolor': COLORS['primary'],
             'borderwidth': 2,
             'font': dict(color=COLORS['text_primary'], size=11)
         }],
-        'margin': {'l': 60, 'r': 40, 't': 100, 'b': 60}  # Increased top margin
+        'margin': {'l': 60, 'r': 40, 't': 120, 'b': 60}
     })
     
     fig.update_layout(**layout_config)
@@ -566,22 +566,23 @@ def create_multi_metric_heatmap(df, metric='failure_rate', gpa_threshold=2.0, se
         'title': metrics_data[metric]['title'],
         'xaxis_title': 'Course Code',
         'yaxis_title': 'Age Group',
-        'height': 500,  # Increased height
+        'height': 500,
         'updatemenus': [{
             'buttons': radio_buttons,
             'direction': "down",
             'pad': {"r": 10, "t": 10},
             'showactive': True,
-            'x': 0.02,
+            'active': 0,
+            'x': 0.01,
             'xanchor': "left",
-            'y': 1.18,  # Moved higher to avoid overlap
+            'y': 1.28,
             'yanchor': "top",
             'bgcolor': COLORS['card'],
             'bordercolor': COLORS['primary'],
             'borderwidth': 2,
             'font': dict(color=COLORS['text_primary'], size=11)
         }],
-        'margin': {'l': 60, 'r': 40, 't': 100, 'b': 60}  # Increased top margin
+        'margin': {'l': 60, 'r': 40, 't': 130, 'b': 60}
     })
     
     fig.update_layout(**layout_config)
@@ -702,7 +703,8 @@ def create_kpi_card_with_sparkline(title, value, subtitle, icon, sparkline_data=
         'primary': COLORS['primary'],
         'danger': COLORS['danger'],
         'success': COLORS['success'],
-        'info': COLORS['info']
+        'info': COLORS['info'],
+        'warning': COLORS['warning']  # ADDED WARNING COLOR
     }
     
     # Create sparkline if data provided
@@ -830,6 +832,54 @@ def calculate_kpis(df, selected_period=None, selected_course=None, selected_filt
 # ============================================================================
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
+
+# Inject custom CSS to fix dropdown readability
+app.index_string = '''
+<!DOCTYPE html>
+<html>
+    <head>
+        {%metas%}
+        <title>{%title%}</title>
+        {%favicon%}
+        {%css%}
+        <style>
+            /* Fix Plotly dropdown menu text visibility */
+            .updatemenu-button {
+                background-color: #1e3a5f !important;
+                color: #f1f5f9 !important;
+            }
+            .updatemenu-button:hover {
+                background-color: #2d4a6f !important;
+                color: #fbbf24 !important;
+            }
+            .updatemenu-button.active {
+                background-color: #fbbf24 !important;
+                color: #0a1929 !important;
+            }
+            .updatemenu-item {
+                background-color: #1e3a5f !important;
+                color: #f1f5f9 !important;
+            }
+            .updatemenu-item:hover {
+                background-color: #2d4a6f !important;
+                color: #fbbf24 !important;
+            }
+            .updatemenu {
+                background-color: #1e3a5f !important;
+            }
+        </style>
+    </head>
+    <body>
+        {%app_entry%}
+        <footer>
+            {%config%}
+            {%scripts%}
+            {%renderer%}
+        </footer>
+    </body>
+</html>
+'''
+
 df = load_and_prepare_data()
 
 # ============================================================================
